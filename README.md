@@ -5,7 +5,7 @@
 - My interests: Inteligencia Artificial, Machine Learning, Cloud Computing, Data Science.
 - "About me":
 - >Soy Ingeniero Geofisico Egresado del IPN.
-- >Soy una persona que siempre busca conocimiento nuevo y le gust los nuevos retos que conlleva aprender dicho conocimiento.
+- >Soy una persona que siempre busca conocimiento nuevo y le gusta los nuevos retos que conlleva aprender dicho conocimiento.
 - >Trato de mejorar mis conocimientos con practicas que me pueden ayudar.
 - >Me gusta mucho jugar y ver Futbol y mi equipo favorito es el Bayern Múnich.
 

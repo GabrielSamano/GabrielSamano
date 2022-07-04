@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GabrielSamano
 - 👀 I’m interested in: La nueva Tecnologia y como va evolucionando, me gusta mucho la programacion. 
-- 🌱 I’m currently learning: Como ser un desarrollador Back End con la ayuda de Innovaccion Virtual de Microsoft. 
 - Date of Birth 17/11/1997
 - My interests: Inteligencia Artificial, Machine Learning, Cloud Computing, Data Science.
 - "About me":
